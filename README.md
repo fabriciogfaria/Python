@@ -11,4 +11,4 @@
    1. Um código desenvolvido utilizando o `pandas`  para analisar dados de uma tabela do excel e o `plotly_express` para gerar um gráfico.
 
 4. **Análise preditiva**
-   1. Um código desenvolvido utilizando o `yfinance`  para acessar dados de ações de empresas, `Prophet` para treinar meu modelo e o `plot_plotly` para gerar um gráfico da predição.
+   1. Um código desenvolvido utilizando o `yfinance`  para acessar dados de ações de empresas, `Prophet` para machine learning e o `plot_plotly` para gerar um gráfico da predição.
